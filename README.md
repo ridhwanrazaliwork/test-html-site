@@ -1,3 +1,3 @@
 # test-html-site
 ## Learning HTML website
-### Currently learning CSS
+### Currently learning external CSS
